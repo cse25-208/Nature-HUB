@@ -1,5 +1,6 @@
 .bold-text {
   font-weight: bold;
+  font-family: 'Georgia', serif;
   font-size: 1.5em;
   color: #708238;
   background-color: #F0EAD6;
@@ -19,7 +20,7 @@
 }
 
 body {
-  background-color: #D8C9A3;
+  background-color: #8A9A5B;
   color: #3B3B3B;
   font-family: 'Ariel', sans-serif;
   padding: 50px;
