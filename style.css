@@ -1,8 +1,13 @@
 .bold-text {
   font-weight: bold;
+  font-size: 3em;
+  color: #708238;
 }
 
 body {
-  background-color: #BDB6A1;
+  background-color: #D8C9A3;
+  color: #3B3B3B;
+  font-family: 'Ariel', sans-serif;
+  padding: 50px;
 }
   
