@@ -14,8 +14,8 @@
 
 .bold-text:hover{
   transform: translateY(-10px);
-  border-radius: 12px;
   box-shadow: 0 12px 18px rgba(0,0,0,0.2);
+  border-radius: 12px;
   background-color: #E6E1D1;
   color: #3B3B3B;
 }
