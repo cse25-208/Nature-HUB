@@ -16,13 +16,13 @@
   transform: translateY(-10px);
   box-shadow: 0 12px 18px rgba(0,0,0,0.2);
   border-radius: 12px;
-  background-color: #CFE7CF;
+  background-color: #3D1F3D;
   color: #317873;
 }
 
 body {
   background-color: #D9F0F3;
-  color: #3B3B3B;
+  color: #E6F2E6;
   font-family: 'Ariel', sans-serif;
   padding: 50px;
 }
