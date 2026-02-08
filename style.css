@@ -5,6 +5,9 @@
   color: rgb(11,12,12);
   background-color: #353839;
   padding: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 3px;
   max-width: 500px;
   margin: 15px auto;
   border-radius: 6px;
