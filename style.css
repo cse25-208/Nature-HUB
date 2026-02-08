@@ -40,13 +40,13 @@ body {
   
 }
 
-.navbar .nav-links {
+.navbar {
   list-style: none;
   display: flex;
   gap: 40px;          
 }
 
-.navbar .nav-links a {
+.navbar .a {
   text-decoration: none;
   color: #EDEDED;
   padding: 10px 20px;
@@ -54,7 +54,7 @@ body {
   transition: background color 0.3s, transform 0.25s;
 }
 
-.navbar .nav-links a:hover {
+.navbar .a:hover {
   background-color: #1E1E1E;
   transform: translateY(-2px); 
 }
