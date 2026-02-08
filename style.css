@@ -36,17 +36,13 @@ body {
   display: flex;
   justify-content: center;   /*center horizontally*/
   align-items: center;
-  margin: 50px 0;
+  margin: 100px 0;
+  gap: 40px; 
   
 }
 
-.navbar {
-  list-style: none;
-  display: flex;
-  gap: 40px;          
-}
 
-.navbar .a {
+.navbar a {
   text-decoration: none;
   color: #EDEDED;
   padding: 10px 20px;
@@ -54,7 +50,7 @@ body {
   transition: background color 0.3s, transform 0.25s;
 }
 
-.navbar .a:hover {
+.navbar a:hover {
   background-color: #1E1E1E;
   transform: translateY(-2px); 
 }
