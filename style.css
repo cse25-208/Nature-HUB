@@ -18,7 +18,7 @@
   background-image: url('images/baobab.jpg.webp');
   background-size: contain;
   background-position: left;
-  filter: blur(8px); 
+  filter: blur(4px); 
   z-index: 1;
 }
 
