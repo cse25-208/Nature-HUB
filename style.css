@@ -8,7 +8,7 @@
   max-width: 500px;
   margin: 15px auto;
   border-radius: 6px;
-  transition: border-radius 0.25s ease;
+  transition: border-radius 0.3s ease;
   box-shadow:0 4px 6px rgba(0,0,0,0.1);
   text-align: center;
 }
