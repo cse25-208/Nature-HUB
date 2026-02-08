@@ -33,7 +33,7 @@ body {
   right: 0;
   width: 30vw;
   height: 100vh;
-  z-index: -1;   /* sits behind content*/
+  z-index: 1;   /* sits behind content*/
   overflow: hidden;  
 }
 
